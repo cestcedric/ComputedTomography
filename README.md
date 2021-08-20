@@ -1,10 +1,9 @@
-Team #8: git repository for part 2 of the Praktikum: "Image Reconstruction and Visualization using C++"
+# ComputedTomography
 
-## Notes
-How to specifically use this application, additional exernal libraries or code you used etc.
+Lab course project "Image Reconstruction and Visualization using C++"
+The project was to build a "CT scanner". You can read and write to .edf files, this program will perform a CT-like "scan" using raytracing and display the volume described by the files.
 
-## Team Members:
- - Stefan Haninger <ga78vuq@mytum.de>
- - Cedric Stark <ga38fej@mytum.de>
- - Michael Sommersperger <ga78miv@mytum.de>
+## How to use
+
+You will need eigen, QT and to adapt the versions originally used in the project.
 
